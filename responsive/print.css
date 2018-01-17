@@ -1,0 +1,11 @@
+  html, body {
+    width: 210mm;
+    height: 297mm;
+
+  }
+  .e{
+  	border: 1px solid blue;
+  }
+button{
+display: none;
+}
